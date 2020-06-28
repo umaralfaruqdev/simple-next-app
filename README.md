@@ -1,4 +1,4 @@
-# Simple applicatio using Next.js & Bootstrap v5.0.0-alpha1
+# Simple application using Next.js & Bootstrap v5.0.0-alpha1
 
 
 
@@ -12,13 +12,15 @@
 
 ## Installing:
 
-1. run "npm Install"
+1. Connect to the internet before.
 
-2. After that run "npm run dev", wait until you see text message about like this "Compile successfully".
+2. run "npm Install".
 
-3. and then open the browser type http://localhost:8080
+3. After that run "npm run dev", wait until you see text message about like this "Compile successfully".
 
-4. thanks
+4. and then open the browser type http://localhost:8080.
+
+5. thanks.
 
 
 
