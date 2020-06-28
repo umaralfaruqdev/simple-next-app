@@ -1,0 +1,8 @@
+node_modules
+.next
+public/*
+!public/bootstrap
+public/bootstrap/css/*
+!public/bootstrap/css/bootstrap.min.css
+public/bootstrap/js/*
+
